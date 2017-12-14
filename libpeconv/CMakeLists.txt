@@ -26,6 +26,7 @@ set (srcs
 )
 
 set (hdrs
+	include/ntddk.h
 	include/peconv.h
 	include/peconv/pe_raw_to_virtual.h
 	include/peconv/pe_virtual_to_raw.h
